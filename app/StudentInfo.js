@@ -7,13 +7,13 @@ function StudentInfo() {
     <div>
       <h1>Student Information</h1>
       <p>
-        Name: Nathaniel CHin
+        Name: Nathaniel Chin
       </p>
       <p>
         Course Section: cprg 306 E
       </p>
       <p>
-        GitHub Repository: adsjfladsfjalk;fdsjf
+        GitHub Repository: https://github.com/Nathaniel-chin/cprg306-assignments
       </p>
     </div>
   );
